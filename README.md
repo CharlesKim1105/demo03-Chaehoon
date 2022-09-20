@@ -1,2 +1,2 @@
 # demo03-Chaehoon
-# This is a oractice of creating a new repo
+# This is a practice of creating a new repo
